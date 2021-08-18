@@ -15,5 +15,17 @@
   "bugs": {
     "url": "https://github.com/nasiruddin01/chat-Application/issues"
   },
-  "homepage": "https://github.com/nasiruddin01/chat-Application#readme"
+  "homepage": "https://github.com/nasiruddin01/chat-Application#readme",
+  "dependencies": {
+    "bcrypt": "^5.0.1",
+    "cookie-parser": "^1.4.5",
+    "dotenv": "^10.0.0",
+    "ejs": "^3.1.6",
+    "express": "^4.17.1",
+    "express-validator": "^6.12.1",
+    "http-errors": "^1.8.0",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^5.13.7",
+    "multer": "^1.4.3"
+  }
 }
